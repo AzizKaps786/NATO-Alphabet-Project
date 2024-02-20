@@ -12,9 +12,6 @@ Supports uppercase and lowercase letters, numbers, and common punctuation marks.
 Provides a simple and intuitive user interface.
 Facilitates clear and accurate communication in various contexts, including military operations, aviation, telecommunications, and emergency services.
 
-## Usage
-![Usage](C:\Users\ACER\OneDrive\Pictures\Screenshot 2024-02-20 125626.png)
-
 ## Requirements
 Python 3.x
 ## License
